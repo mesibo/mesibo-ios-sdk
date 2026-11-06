@@ -1,0 +1,7 @@
+# release zips (uploaded as GitHub Release assets, never committed)
+releases/
+# internal release notes and procedure (stay on the build machine)
+RELEASE_PROCEDURE.md
+.build/
+.swiftpm/
+.DS_Store
