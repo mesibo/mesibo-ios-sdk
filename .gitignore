@@ -2,6 +2,8 @@
 releases/
 # internal release notes and procedure (stay on the build machine)
 RELEASE_PROCEDURE.md
+# release script (stays on the build machine)
+release.sh
 .build/
 .swiftpm/
 .DS_Store
