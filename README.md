@@ -1,7 +1,7 @@
 # mesibo iOS SDK
 
 mesibo frameworks for iOS, distributed with Swift Package Manager.
-Documentation: https://mesibo.com/documentation/
+Documentation: https://docs.mesibo.com/
 
 ## Installation
 
